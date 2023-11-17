@@ -1,0 +1,1 @@
+Aprender el manejo de iconos en la s paginas web, como estos se hacen para no ponerlas en cada pagina, y como funcionan los iconos y sistemas de representacion de ilustraciones con svg, font awesome, y ver tambien un poco de px vs pt 
