@@ -1,0 +1,2 @@
+Pensar en las colecciones como clases, que tienensus propias propiedades para el json,asi, los datos de una entrada tendrian dos aprtes, las estandar o de la plantilla general de una entrada, y las que son heredadas de sus colecciones o subcolecciones
+cada coleccion podria tener contenido a modo de revision o registro de la cantidad de entrada s s que tiene, y la cantidad de entradas de algun tipo (por ejemplo, completadas, tachadas, migradas, etc) y asi podria sr como un reporte en si mismo 
