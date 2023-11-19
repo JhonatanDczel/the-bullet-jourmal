@@ -1,0 +1,1 @@
+Determinar si se puede estudiar un plan de estudios alterno al mismo tiempo que se llevan las classes, es decir por ejemplo si en clases de Pweb hay suficiente soltura como para a la par estar llevando cursos de TOP, o si los cursos son invasivos al grado de que solo se deban llevar sus contenidos estrictamente
